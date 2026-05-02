@@ -1,0 +1,17 @@
+[remap]
+
+importer="kra.texture.importer"
+type="PortableCompressedTexture2D"
+uid="uid://ch2q1pr3rip1h"
+path="res://.godot/imported/Dpad.kra-bde2badc9b556afe2f5b88e87a4d8139.res"
+
+[deps]
+
+source_file="res://Dpad.kra"
+dest_files=["res://.godot/imported/Dpad.kra-bde2badc9b556afe2f5b88e87a4d8139.res"]
+
+[params]
+
+compress/mode=0
+mipmaps/generate=false
+process/premult_alpha=false

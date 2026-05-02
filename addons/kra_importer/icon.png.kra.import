@@ -1,0 +1,17 @@
+[remap]
+
+importer="kra.texture.importer"
+type="PortableCompressedTexture2D"
+uid="uid://c43eq7mq17gx6"
+path="res://.godot/imported/icon.png.kra-9fee67cff914df4c2069042e09201435.res"
+
+[deps]
+
+source_file="res://addons/kra_importer/icon.png.kra"
+dest_files=["res://.godot/imported/icon.png.kra-9fee67cff914df4c2069042e09201435.res"]
+
+[params]
+
+compress/mode=0
+mipmaps/generate=false
+process/premult_alpha=false
